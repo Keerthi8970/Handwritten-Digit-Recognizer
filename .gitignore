@@ -1,0 +1,5 @@
+venv/
+pycache/
+.pyc
+models/.h5
+output/
