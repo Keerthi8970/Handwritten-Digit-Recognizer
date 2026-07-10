@@ -84,7 +84,7 @@ Handwritten-Digit-Recognizer/
 
 ---
 
-# ✨ Features
+#  Features
 
 - 📥 Load the MNIST dataset
 - 🖼️ Display sample handwritten digits
@@ -202,17 +202,8 @@ The program will:
 
 # 📷 Sample Output
 
-```
-==============================
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/91be9dce-3616-41ff-b1bc-816f7696885f" />
 
-Predicted Digit : 1
-
-Confidence : 99.78%
-
-==============================
-```
-
----
 
 # 📊 Applications
 
@@ -225,7 +216,7 @@ Confidence : 99.78%
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - 📷 Real-time webcam digit recognition
 - 📱 Mobile camera digit recognition
@@ -235,10 +226,7 @@ Confidence : 99.78%
 - 🔢 Multi-digit recognition
 - ☁️ Cloud deployment
 
----
-Installed 
 
-<img width="1917" height="1012" alt="Screenshot 2026-07-09 214644" src="https://github.com/user-attachments/assets/6e082ed7-1ee4-416b-b9e4-2a50f4470878" />
 
 
 # 📚 Learning Outcomes
